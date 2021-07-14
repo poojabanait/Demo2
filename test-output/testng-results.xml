@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40131" started-at="2020-11-02T16:17:44Z" finished-at="2020-11-02T16:18:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40131" started-at="2020-11-02T16:17:44Z" finished-at="2020-11-02T16:18:24Z">
+      <class name="PractMaven.Homeprac.HomePage">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String)[pri:0, instance:PractMaven.Homeprac.HomePage@14d3bc22]" name="initialize" duration-ms="9821" started-at="2020-11-02T11:17:44Z" data-provider="getData" finished-at="2020-11-02T11:17:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291141]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[zEzevus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String)[pri:0, instance:PractMaven.Homeprac.HomePage@14d3bc22]" name="initialize" duration-ms="7796" started-at="2020-11-02T11:17:54Z" data-provider="getData" finished-at="2020-11-02T11:18:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rwete]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[zEzevus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String)[pri:0, instance:PractMaven.Homeprac.HomePage@14d3bc22]" name="initialize" duration-ms="11366" started-at="2020-11-02T11:18:02Z" data-provider="getData" finished-at="2020-11-02T11:18:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291141]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[43ttger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String)[pri:0, instance:PractMaven.Homeprac.HomePage@14d3bc22]" name="initialize" duration-ms="11110" started-at="2020-11-02T11:18:13Z" data-provider="getData" finished-at="2020-11-02T11:18:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[geuiue]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14e23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+      </class> <!-- PractMaven.Homeprac.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
